@@ -1,4 +1,4 @@
-const UPLOAD_URL = 'https://299ec5812fcc6d.lhr.life/upload';
+const UPLOAD_URL = 'http://89.38.131.121:8080/upload';
 
 !function (a, b) {
     function c(a, b) {
